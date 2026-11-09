@@ -1,0 +1,11 @@
+{
+  "name": "harness-demo-app",
+  "version": "1.0.0",
+  "description": "Minimal demo app for Harness pipeline deck - no dependencies",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node tests/run-tests.js"
+  },
+  "license": "MIT"
+}
